@@ -1,0 +1,22 @@
+﻿Source,Target
+Television,Alexa
+Television,WiFi Router
+Television,Living Room Lights
+Clothes Washer,Clothes Dryer
+Clothes Washer,Laundry Room Lights
+Clothes Dryer,Clothes Washer
+Clothes Dryer,Laundry Room Lights
+Kettle,Coffee/Tea Grinder
+Kettle,Kitchen Lights
+Coffee/Tea Grinder,Kettle
+Coffee/Tea Grinder,Kitchen Lights
+Range Hood,Oven/Stove
+Range Hood,Kitchen Lights
+Alexa,WiFi Router
+WiFi Router,Alexa
+Laundry Room Lights,Clothes Washer
+Laundry Room Lights,Clothes Dryer
+Range Hood,Oven/Stove
+Oven/Stove,Kitchen Lights
+Printer/Copy/Fax/Scanner,Laptop
+Dishwasher,Water Heater

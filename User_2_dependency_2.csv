@@ -1,0 +1,9 @@
+﻿Source,Target
+Clothes Dryer,Clothes Washer
+Clothes Washer,Water Heater
+Clothes Washer,Clothes Dryer
+Coffee Grinder,Kettle (Coffee)
+Kettle (Coffee),Coffee Grinder
+WiFi Router,Alexa
+Alexa,WiFi Router
+Television,WiFi Router

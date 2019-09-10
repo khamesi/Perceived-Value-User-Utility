@@ -1,0 +1,27 @@
+﻿Source,Target
+Humidifier (central),Air Conditioner
+pedal board,guitar amp
+pedal board,Lights Living Room 
+Living Room TV ,living room sound system
+Living Room TV ,WiFi
+Living Room TV ,Lights Living Room 
+Alexa - Echo Dot,WiFi
+Alexa - Fire TV,Bedroom TV
+Alexa - Fire TV,WiFi
+Alexa - Fire TV,Lights Bedroom
+Bedroom TV,Alexa - Fire TV
+Bedroom TV,WiFi
+Bedroom TV,Lights Bedroom
+living room sound system,Living Room TV 
+living room sound system,WiFi
+living room sound system,Lights Living Room 
+Dishwasher,Water Heater
+Dishwasher,Lights Kitchen 
+Clothes Washer,Water Heater
+Clothes Washer,Clothes Dryer
+Clothes Washer,Lights Basement
+Clothes Dryer,Water Heater
+Clothes Dryer,Clothes Washer
+Clothes Dryer,Lights Basement
+Lights Basement,Clothes Dryer
+Lights Basement,Clothes Washer

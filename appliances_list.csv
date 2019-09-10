@@ -1,0 +1,22 @@
+id,utility,energy,usage (hours/month),knapsack_utility
+Air Conditioner,65,5000,600,0.173310225
+Clock/Alarm,54,10,720,0.20797227
+Cell Phone/Phone Charger,94,6,30,0.008665511
+Clothes Dryer,39,5000,17,0.004910456
+Clothes Washer,58,500,24,0.006932409
+Coffee Machine,53,1500,17,0.004910456
+Computer,100,270,92,0.026574235
+Dishwasher,23,2400,24,0.006932409
+Gaming System,51,195,27,0.00779896
+Hair Dryer,24,1875,4,0.001155402
+Heater,49,5500,60,0.017331023
+Lights/lamp,64,100,150,0.043327556
+Microwave,35,1500,17,0.004910456
+Oven/Stove,58,3300,6,0.001733102
+Printer/Copy/Fax/Scanner,45,75,92,0.026574235
+Radio/Stereo,57,200,85,0.024552282
+Router,15,20,720,0.20797227
+Television,74,400,120,0.034662045
+Toaster/Toaster Oven,16,1400,3,0.000866551
+Vacuum,20,3000,4,0.001155402
+Water Heater,58,4500,125,0.036106297
