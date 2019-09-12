@@ -1,0 +1,25 @@
+Source,Target
+Clock/Alarm,Radio/Stereo
+Clothes Dryer,Clothes Washer
+Clothes Dryer,Lights/lamp
+Clothes Washer,Clothes Dryer
+Clothes Washer,Lights/lamp
+Clothes Washer,Water Heater
+Coffee Machine,Lights/lamp
+Computer,Router
+Dishwasher,Lights/lamp
+Dishwasher,Water Heater
+Gaming System,Lights/lamp
+Gaming System,Television
+Hair Dryer,Lights/lamp
+Microwave,Lights/lamp
+Oven/Stove,Lights/lamp
+Printer/Copy/Fax/Scanner,Computer
+Printer/Copy/Fax/Scanner,Lights/lamp
+Printer/Copy/Fax/Scanner,Router
+Radio/Stereo,Lights/lamp
+Toaster/Toaster Oven,Lights/lamp
+Vacuum,Lights/lamp
+Vacuum,Radio/Stereo
+Water Heater,Clothes Washer
+Water Heater,Lights/lamp
